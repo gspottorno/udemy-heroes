@@ -1,3 +1,4 @@
 data.log
-*.log 
+*.log
 directorio/ #No recoge todo lo del directorio
+node_modules/
