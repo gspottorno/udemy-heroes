@@ -1,3 +1,3 @@
-##
+## Notas
 
-Este repositorio sirve para comentar cosas
+Este proyecto usa los planes de la ligua de la justicia.
