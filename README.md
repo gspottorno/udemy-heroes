@@ -1,3 +1,4 @@
 ## Notas
 
-Este proyecto usa los planes de la ligua de la justicia.
+##Ya desde GitHub
+Mola cambiar cosas y que luego aparezcan en mi ordenador...
