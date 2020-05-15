@@ -6,3 +6,4 @@
 * Aquaman
 * Tadeo Jones
 * Indiana Joners
+* Mázinger Z
