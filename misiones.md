@@ -4,3 +4,4 @@
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros
 4. Necesitamso más comida
+5. Investigar los trabajos del enemigo
